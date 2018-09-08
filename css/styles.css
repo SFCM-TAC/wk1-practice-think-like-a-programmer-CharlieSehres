@@ -1,1 +1,24 @@
 /* TODO: Add your styles here */
+
+body {
+  background-color: teal;
+}
+
+h1, .question, .answer {
+  font-family: Arial;
+}
+
+.question {
+  font-style: Italic;
+  font-size: 14px;
+  color: lightgray;
+}
+
+.answer {
+  color: white;
+}
+
+h1 {
+  font-size: 25px;
+  color: white;
+}
